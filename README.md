@@ -19,8 +19,8 @@ I'm a web development enthusiast who enjoys building simple yet effective web pr
 - To-Do List Application
 
 ## 📫 How to reach me
-- Email: your.email@example.com
-- GitHub: [Tejtih](https://github.com/Tejtih)
+- Email: tejith2020@gmail.com
+- GitHub: [Tejtih](https://github.com/tejithvasu02)
 
 ---
 
