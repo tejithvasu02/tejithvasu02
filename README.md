@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Tejtih
 
-<!--
-**tejithvasu02/tejithvasu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+I'm a web development enthusiast who enjoys building simple yet effective web projects.
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning more about web development
+- 💻 Focusing on HTML, CSS, and JavaScript
+- 🔍 Looking to collaborate on beginner and intermediate web projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+
+## 🚀 Projects
+- Expence Tracker Website
+- Simple Weather App
+- To-Do List Application
+
+## 📫 How to reach me
+- Email: your.email@example.com
+- GitHub: [Tejtih](https://github.com/Tejtih)
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/Tejtih/count.svg)
