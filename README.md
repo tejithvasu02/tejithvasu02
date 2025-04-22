@@ -25,8 +25,8 @@ const tejtih = {
 
 <div align="center">
   <h3>Expense Tracker</h3>
-  <a href="https://github.com/tejithvasu02/expense-tracker" target="_blank">
-    <img src="https://via.placeholder.com/500x300?text=Expense+Tracker" alt="Expense Tracker" width="70%"/>
+  <a href="https://expensy.pages.dev/" target="_blank">
+    <strong>Expense Tracker Application</strong>
   </a>
   <p><strong>HTML, CSS, JavaScript</strong> - A web application to track personal expenses, hosted publicly.</p>
 </div>
@@ -43,14 +43,6 @@ const tejtih = {
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejtih&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
