@@ -13,9 +13,7 @@
 ```javascript
 const tejtih = {
   skills: ["HTML", "CSS", "JavaScript"],
-  currentlyLearning: "Responsive Design",
-  interests: ["Web Development", "UI Design", "Open Source"],
-  funFact: "I turn coffee into code"
+  interests: ["Web Development", "UI Design"],
 };
 ```
 
