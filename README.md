@@ -65,6 +65,4 @@ const tejtih = {
   
   ![Profile Views](https://komarev.com/ghpvc/?username=tejithvasu02&color=blueviolet&style=flat-square)
   
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  
 </div>
